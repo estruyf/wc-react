@@ -25,8 +25,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "prepack": "npm run build",
-    "postinstall": "tsc"
+    "prepack": "npm run build"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
