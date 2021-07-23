@@ -24,8 +24,7 @@
     "url": "https://github.com/nmetulev/wc-react/issues"
   },
   "scripts": {
-    "build": "tsc",
-    "prepack": "npm run build"
+    "build": "tsc"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
